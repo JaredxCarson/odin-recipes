@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Odin Recipes</title>
+    </head>
+
+    <body>
+        <h1>Odin Recipes</h1>
+        
+        <h1>Tomahawk Steak</h1>
+          
+        <img src="./recipes/steak.jpeg" alt="A photo of a tomahawk steak">
+
+        <p>
+            <h2>Description</h2>
+            A delicious reverse-seared Tomahawk steak that will leave you craving more.
+
+            <h2>Ingredients</h2>
+            <ul>
+                <li>1 tomahawk ribeye</li>
+                <li>2 tbsp butter</li>
+                <li>1-2 sprigs fresh rosemary</li>
+                <li>salt and pepper</li>
+            </ul>
+
+            <h2>Steps</h2>
+            <ol>
+                <li>Remove your steak from the refrigerator and allow it to warm up slightly to room temperature for about an hour.</li>
+                <li>Season steak generously with salt and pepper. Insert a reliable leave-in thermometer into the thickest portion of the steak.</li>
+                <li>Preheat the oven to 225 fahrenheit. Place the cast iron pan in the oven when ready.</li>
+                <li>Let the steak cook for about 45 minutes or until the internal temperature reaches about 130. Then let the steak rest a few minutes before searing.</li>
+                <li>Turn the stove temperature to high and then place the cooked steak directly onto the skillet, flipping every 30 seconds for about 5 minutes.</li>
+                <li>Remove the steak from the iron pan and top with butter and rosemary. Slice and serve immediately.</li>
+            </ol>
+        </p>
+    </body>
+</html>
