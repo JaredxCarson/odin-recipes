@@ -10,7 +10,7 @@
         
         <h1>Tomahawk Steak</h1>
           
-        <img src="./recipes/steak.jpeg" alt="A photo of a tomahawk steak">
+        <img src="./recipes/steak.jpeg" alt="A photo of a tomahawk steak" height="225" width="225">
 
         <p>
             <h2>Description</h2>
@@ -34,5 +34,37 @@
                 <li>Remove the steak from the iron pan and top with butter and rosemary. Slice and serve immediately.</li>
             </ol>
         </p>
+
+            <h1>Mozzarella Stuffed Meatballs</h1>
+
+            <img src="./recipes/mozzarella-stuffed-meatballs.jpg" alt="A photo of mozzarella-stuffed-meatballs" height="225" width="225">
+
+           <p>
+            <h2>Description</h2>
+            These mozzarella meatballs are a delicious twist on my favorite meatball recipe. Plain homemade meatballs are fantastic, but add mozzarella in the center and you're in for a real treat. The meatballs are tender, juicy, flavorful and full of gooey mozzarella.
+
+            <h2>Ingredients</h2>
+            <ul>
+                <li>1 pound 80% lean ground beef</li>
+                <li>1 large egg</li>
+                <li>1/4 cup breadcrumbs</li>
+                <li>1/4 cup grated parmesean cheese</li>
+                <li>2 teaspoons minced garlic</li>
+                <li>1/4 cup finely chopped onion</li>
+                <li>3/4 teaspoon kosher salt</li>
+                <li>1/4 teaspoon ground black pepper</li>
+                <li>4-6 ounces mozzarella, cut into 1/2 inch cubes</li>
+                <li>2 tablespoons chopped fresh italian flat leaf parsley</li>
+            </ul>
+
+            <h2>Steps</h2>
+            <ol>
+                <li>Preheat oven to 400 fahrenheit</li>
+                <li>In a large bowl mix the beef, egg, breadcrumbs, parmesean, garlic, onion, salt, pepper, and parsley</li>
+                <li>Portion the mixture onto a baking sheet, place 1 cheese cube in the center of each portion. Using your hands, wrap the meat mixture around the cheese and shape into balls</li>
+                <li>Bake uncovered, turning halfway through, 17-20 minutes.</li>
+                <li>Let the meatballs rest for a few minutes once they are done and enjoy</li>
+            </ol>
+           </p>
     </body>
 </html>
