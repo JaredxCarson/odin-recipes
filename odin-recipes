@@ -7,6 +7,12 @@
 
     <body>
         <h1>Odin Recipes</h1>
+
+        <ul>
+            <li><a href="recipes/steak.html">Tomahawk Steak</a></li>
+            <li><a href="recipes/mozzarella-stuffed-meatballs.html">Mozzarella Stuffed Meatballs</a></li>
+            <li><a href="recipes/jalapeno-poppers.html">Jalapeno Poppers</a></li>
+        </ul>
         
         <h1>Tomahawk Steak</h1>
           
